@@ -1,4 +1,4 @@
->>Which of the following `console.log()` statements return "Welcome!"? <<
+>>Which of the following `console.log()` statements outputs "Welcome!"? <<
 
 (x) `console.log("Welcome!");` {{Correct because the statement prints "Welcome!" to the console with no syntax error.}}
 ( ) `console.print("Welcome!");` {{Incorrect because "log" should be used instead of "print".}}
